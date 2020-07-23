@@ -14,7 +14,7 @@ The mechanism through which communism died by its own hand was sheltering people
 
 I was born in the midst of the gunshots of the Romanian revolution. It took me years to understand the repercussions of the communist mentality in society and in myself. It has not disappeared even after 30 years. The artificial sense of comfort, the inertia, and opposition to change, hatred towards logic, putting more worth in how your apartment looks than in expanding your mental, moral and empirical horizons. But you can find these behaviors in most countries, in various degrees - the communist demon is still here. Romania was just a fresh case. **And the only solution that forced Romania to change was capitalism.**
 
-Romanians viewed America as the promised land. In communism, children and teenagers were running from home at night to gather and listen to American music, view American films, dreaming the freedom dream in secrecy (an offence punishable through imprisonment). Some dissidents flew to America or other European democratic countries to escape the communist regime. But they soon learned that a soft dream of freedom is not what creates true freedom. **Freedom is created through the forge of self-discipline for reaching the highest personal goal that you have.** Through a sense that if you do not give your best, you are not respecting yourself and you are restricting your own future's outcome.
+Romanians viewed America as the promised land. In communism, children and teenagers were running from home at night to gather and listen to American music, view American films, dreaming the freedom dream in secrecy (an offense punishable through imprisonment). Some dissidents flew to America or other European democratic countries to escape the communist regime. But they soon learned that a soft dream of freedom is not what creates true freedom. **Freedom is created through the forge of self-discipline for reaching the highest personal goal that you have.** Through a sense that if you do not give your best, you are not respecting yourself and you are restricting your own future's outcome.
 
 **The American dream is not a house with a white picket fence. It is the dream of a society where it doesn't matter to whom you were born to and under what conditions - you can align your highest personal goal with the highest collective goal and nothing can stop you except yourself and the limitations that you impose on yourself.**
 
@@ -25,7 +25,7 @@ Romanians viewed America as the promised land. In communism, children and teenag
 
 Today, some of these local minima are initially market-driven, but others are artificially created through closed-door deals/forced regulation (crony capitalism). They are a **"rent seeker's throne"**. A power seat from where the rent seeker holds the reigns of power and uses them to strengthen their position without additional effort or added value.
 
-**But now, we are talking about a new type of capitalism. A more moral capitalism: the capitalism of known and transparent work worth.**
+**But now, we are talking about a new type of capitalism. A "more" moral capitalism: the capitalism of known and transparent work worth.**
 
 The consumer/buyer pays the producer of effort and IP (employee) directly, after a predefined and pre-agreed algorithm. The management and administrative employer is also paid directly, after a predefined algorithm. All payments are transparent. 
 
@@ -143,16 +143,4 @@ In the meanwhile...
 
 
 (*) Disclaimer: I was part of an ICO, as a naive mercenary programmer, but I was paid no more than the market price (which is a good, comfortable salary). I asked to be paid in ETH - I was not, for legal reasons (as I was told at that time). I did not stay for the shares.
-
-
-
-
-
-
-
-
-
-
-
-
 
